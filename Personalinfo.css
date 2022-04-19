@@ -232,6 +232,28 @@ overflow-x: hidden;
   box-shadow: 0 0 3px grey inset;
 }
 
+  .sendedmessage{
+    max-width: 45%;
+    padding:2px 10px;
+    margin-bottom:30px;
+    border-radius:15px;
+    background:#f42a82;
+    color:white;
+    clear:both;
+    float: right;
+    word-break: break-word;
+  }
+  .receivedmessage{
+    max-width: 45%;
+    padding:2px 10px;
+    margin-bottom:30px;
+    border-radius:15px;
+    background:#ee1fd2;
+    color:white;
+    clear:both;
+    float: left;
+    word-break: break-word;
+  }
 
 
 
